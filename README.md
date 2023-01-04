@@ -1,2 +1,2 @@
-# oms_java
-oms java
+# oms-java
+oms-java
